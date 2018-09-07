@@ -1,0 +1,27 @@
+.header {
+   background-color: #784500;
+
+   display: flex;
+   flex-direction: column;
+
+   &__logo-box {
+      margin: 4rem auto;
+   }
+
+   &__text-box {
+      margin: auto;
+      text-align: center;
+   }
+}
+
+.heading_primary {
+   display: flex;
+   flex-direction: column;
+
+   margin-bottom: 2rem;
+
+}
+
+.background_img {
+   background-size: cover;
+}
